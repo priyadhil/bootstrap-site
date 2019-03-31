@@ -1,0 +1,1 @@
+Building the UI for a Content Management System admin area. It will feature a dashboard, posts, pages, users and login page. I will look at almost all of the Bootstrap css components as well as some javascript.
